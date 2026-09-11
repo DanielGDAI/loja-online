@@ -1,4 +1,4 @@
-# loja-online - Campanha de Black Friday
+# loja-online - Campanha de Natal 
 
 ## contato
 Duvidas: contato@loja.com.br
