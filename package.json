@@ -1,0 +1,10 @@
+{
+    "name": "loja-online",
+    "version": "1.0.0",
+    "description": "projeto de exemplo do curso git, agile & dev culture",
+    "main": "app.js",
+    "scripts": {
+        "test": "node --test"
+    },
+    "license": "MIT"
+}
