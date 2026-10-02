@@ -2,7 +2,7 @@ name: CI
 
 on:
 pull_request:
-    branches: [ main]
+    branches: [ main ]
 
 job: 
 testes:
@@ -11,5 +11,5 @@ steps:
 - uses: actions/checkout@v4
 - name: instalar dependências
   run: npm install
-  - name: rodar testes
+  - name: rodar os testes
   run: npm test
